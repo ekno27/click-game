@@ -39,6 +39,49 @@
         "id":8,
         "image": "https://www.udiscovermusic.com/wp-content/uploads/2018/01/SgtPepper-1.jpg",
         "alt": "SGT Pepper's Lonely Hearts Club" 
+    },
+    {
+        "id":9,
+        "image": "https://consequenceofsound.files.wordpress.com/2013/09/arcade-fire-cover.jpg?quality=80&w=600",
+        "alt": "Reflektor"
+
+    },
+    {
+        "id":10,
+        "image": "https://media.pitchfork.com/photos/5a8d8891e32a32385b84616a/1:1/w_320/Superorganism.jpg",
+        "alt": "Superorganism"
+
+    },
+    {
+        "id":11,
+        "image": "https://i0.wp.com/i45.tinypic.com/fzawhz.jpg",
+        "alt": "Headhunters"
+
+    }, 
+    {
+        "id":12,
+        "image": "https://ionecassius.files.wordpress.com/2018/02/15193209489599.jpg?w=1024&quality=80&strip=all&h=1024",
+        "alt": "Dirty Computer"
+
+    },
+    {
+        "id":13,
+        "image": "https://img.discogs.com/1LpzKN_NoviOA8uJpIm_0WD75tw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1344223-1211370949.jpeg.jpg",
+        "alt": "Number Ones"        
+    },
+    {
+        "id":14,
+        "image": "https://respect-mag.com/wp-content/uploads/2018/04/DAMN.kendrick.jpg",
+        "alt": "DAMN."
+    },
+    {
+        "id":15,
+        "image": "https://img.discogs.com/ZwwEZRo5OYh3AUsW2eqCZKFNM5I=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-386005-1132053152.jpeg.jpg",
+        "alt": "IV"
+
     }
+    
+    
+    
 
 ]

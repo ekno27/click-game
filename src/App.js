@@ -72,7 +72,7 @@ class App extends React.Component{
         <Instructions score={this.state.score} maxScore={this.state.maxScore} ></Instructions>  
         <div className={this.state.container} > 
            
-           <div className="row"></div>
+        
            <div className="row"></div>
           
           {images}
