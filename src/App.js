@@ -4,6 +4,7 @@ import './animate.css'
 import ImageList from './images.json';
 import Images from './components/images';
 import Header from './components/header';
+import Instructions from './components/instructions';
 
 
 class App extends React.Component{
@@ -66,10 +67,14 @@ class App extends React.Component{
   
     return (
       <div className="App">
-        <Header score={this.state.score} maxScore={this.state.maxScore} ></Header>
-          <div className={this.state.container} > 
+
+        <Header ></Header>
+        <Instructions score={this.state.score} maxScore={this.state.maxScore} ></Instructions>  
+        <div className={this.state.container} > 
+           
            <div className="row"></div>
            <div className="row"></div>
+          
           {images}
         </div>
     </div>
