@@ -8,9 +8,8 @@
     "react-dom": "^16.4.1",
     "react-scripts": "1.1.4"
   },
+  "homepage": "https://ekno27.github.io/click-game/",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
